@@ -2,6 +2,10 @@
 
 Full-stack expense tracker built with React, TypeScript, Tailwind, and Supabase.
 
+## live link
+
+https://savvy-saver.netlify.app/
+
 ## Features
 
 - Supabase authentication (signup, signin, signout)
